@@ -45,7 +45,7 @@ motto: "Turning complex challenges into clean, elegant code."
 
 <div align="center">
 
-| Kategori | Teknologi & Tools |
+| Category | Technologies & Tools |
 |---|---|
 | **Programming Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white) |
 | **Frameworks & Libraries** | ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) |
@@ -64,7 +64,7 @@ motto: "Turning complex challenges into clean, elegant code."
       <h3 align="center">🧠 <a href="https://github.com/Jansky0/documind">DocuMind</a></h3>
       <p align="center">
         <b>Local-First RAG & Document Knowledge Base</b><br/>
-        Tanya-jawab dokumen PDF/Markdown/TXT dengan sitasi sumber akurat, pencegahan halusinasi, dan real-time streaming LLM.
+        Question-answering over PDF, Markdown, and TXT documents with grounded source citations, anti-hallucination guardrails, and real-time LLM streaming.
       </p>
       <p align="center">
         <img src="https://img.shields.io/badge/Python-3.12-blue?style=flat-square" />
@@ -76,8 +76,8 @@ motto: "Turning complex challenges into clean, elegant code."
     <td width="50%">
       <h3 align="center">🏥 <a href="https://github.com/Jansky0/puskesmas-antrean-hybrid">Puskesmas Antrean Hybrid</a></h3>
       <p align="center">
-        <b>Sistem Antrean Faskes Terintegrasi</b><br/>
-        Platform antrean layanan kesehatan modern dengan sinkronisasi online & onsite untuk efisiensi alur pasien.
+        <b>Integrated Healthcare Queue System</b><br/>
+        Modern queue management platform for community healthcare clinics featuring online & on-site queue synchronization.
       </p>
       <p align="center">
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square" />
